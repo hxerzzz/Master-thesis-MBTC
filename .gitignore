@@ -1,0 +1,10 @@
+# R session and local configuration
+.Renviron
+.Renviron.*
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS metadata
+.DS_Store
